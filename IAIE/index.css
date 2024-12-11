@@ -1,0 +1,43 @@
+ .u-section-1 {
+  background-image: url("images/045fd61edceb69a89419a6c67bc45010ac87ed4011543455fa3e2e5048616794ec41da383c478fb71af4172e239a8e6f96d966e0d8efe3ca382958_1280.jpg"), url("images/045fd61edceb69a89419a6c67bc45010ac87ed4011543455fa3e2e5048616794ec41da383c478fb71af4172e239a8e6f96d966e0d8efe3ca382958_1280.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 835px;
+}
+
+.u-section-1 .u-shopping-cart-1 {
+  height: 31px;
+  width: 31px;
+  margin: 36px -31px 60px auto;
+}
+
+.u-section-1 .u-icon-1 {
+  padding: 3px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 689px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 528px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 396px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 249px;
+  }
+}
